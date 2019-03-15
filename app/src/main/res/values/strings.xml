@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="call_button_text">CALL</string>
+    <string name="message_button_text">MESSAGE</string>
+    <string name="person_1_name">Bob</string>
+    <string name="person_1_phone_number">1234567890</string>
+    <string name="person_2_name">Charles</string>
+    <string name="person_2_phone_number">2345678901</string>
+    <string name="person_3_name">Alisa</string>
+    <string name="person_3_phone_number">3456789012</string>
+    <string name="person_4_name">Amy</string>
+    <string name="person_4_phone_number">4567890123</string>
+    <string name="person_5_name">Chris</string>
+    <string name="person_5_phone_number">5678901234</string>
+    <string name="person_6_name">Jason</string>
+    <string name="person_6_phone_number">6789012345</string>
+    <string name="person_7_name">Daniel</string>
+    <string name="person_7_phone_number">7890123456</string>
+    <string name="person_8_name">Robert</string>
+    <string name="person_8_phone_number">8901234567</string>
+    <string name="person_9_name">Hao</string>
+    <string name="person_9_phone_number">9012345678</string>
+</resources>
